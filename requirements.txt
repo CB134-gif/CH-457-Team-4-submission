@@ -1,0 +1,14 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+ipython
+scipy
+pyarrow
+fastparquet
+sympy
+pytfa
+shap
+pathlib
